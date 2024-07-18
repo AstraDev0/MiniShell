@@ -6,7 +6,6 @@ Welcome to the MiniShell project! This README provides a comprehensive overview 
 
 - **Binary Name**: `MiniShell`
 - **Language**: C
-- **Group Size**: 4 - 5
 - **Compilation**: Via `Makefile`, including `re`, `clean`, and `fclean` rules.
 
 ### Authorized Functions
