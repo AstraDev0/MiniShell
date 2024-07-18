@@ -1,6 +1,6 @@
 # MiniShell
 
-Welcome to the MiniShell project! This README provides a comprehensive overview of the project requirements, structure, and key features, integrating the functionalities of the previous Minishell1 and Minishell2 projects. The MiniShell project is designed to create a fully-fledged Unix shell based on TCSH.
+Welcome to the MiniShell project! This README provides a comprehensive overview of the project requirements, structure, and key features. The MiniShell project is designed to create a fully-fledged Unix shell based on TCSH.
 
 ## Preliminaries
 
